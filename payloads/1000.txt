@@ -7,7 +7,7 @@ STRING terminal
 DELAY 1000
 ENTER
 DELAY 250
-STRING say I love Charlie boo boo head
+STRING say Fuck Off!
 ENTER
 GUI N
 DELAY 1000
