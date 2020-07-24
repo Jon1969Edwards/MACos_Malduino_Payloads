@@ -1,0 +1,6 @@
+DELAY 2000
+COMMAND r
+STRING TextEdit
+ENTER
+DELAY 500
+STRING It's super easy to script for MalDuino!
