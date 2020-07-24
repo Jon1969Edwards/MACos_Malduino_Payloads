@@ -2,7 +2,7 @@
 
 0000.txt - ***OSX Photo Booth Prank***
 
-0001.txt - 
+0001.txt - ***[WIP]***
 
 0011.txt - ***Linux and OSX sudo password grabber***
 
@@ -16,7 +16,7 @@
 
 1011.txt - ***OSX reverse shell*** ***on attacker machine type 'netcat -l -p 8888'***
 
-1100.txt - ***Grabs 'ifconfig' and 'airport -I' info and send through email to attacker***
+1100.txt - ***Grabs 'ifconfig' and 'airport -I' info and sends info through email to attacker***
 
 1110.txt - ***OSX Youtube Blaster***
 
