@@ -6,6 +6,8 @@
 
 0011.txt - ***Linux and OSX sudo password grabber***
 
+0101.txt - ***Rubber Ducky Firefox Password Stealer***
+
 0111.txt - ***Follow account on instagram***
 
 1000.txt - ***OSX Ascii Prank***
