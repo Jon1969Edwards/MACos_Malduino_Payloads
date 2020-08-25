@@ -8,6 +8,8 @@
 
 0101.txt - ***Rubber Ducky Firefox Password Stealer***
 
+0110.txt - ***Clears terminal, gets wifi info, copies to txt file and sends to attackers email.***
+
 0111.txt - ***Follow account on instagram***
 
 1000.txt - ***OSX Ascii Prank***
