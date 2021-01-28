@@ -26,4 +26,4 @@
 
 1101.txt - *** -MacOS- Fake Update screen- ***
 
-1111.txt - *** [WIP] ***
+1111.txt - *** -Fake macOS update- ***

@@ -1,6 +1,16 @@
+REM fake apple update
+REM
+REM let the ducky HID enumerate
 DELAY 2000
-COMMAND r
-STRING TextEdit
+GUI SPACE
+DELAY 600
+STRING terminal
+DELAY 750
 ENTER
-DELAY 500
-STRING It's super easy to script for MalDuino!
+DELAY 4500
+STRING open https://fakeupdate.net/apple/
+ENTER
+DELAY 1500
+GUI SHIFT f
+REM is likely that have slow internet connection
+DELAY 4000
